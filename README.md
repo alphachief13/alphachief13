@@ -1,5 +1,5 @@
 👋 Hi!! :D
-I'm Alphachief13... sometimes i post some crazy things here
+I'm Alphachief13 (Victor Cordeiro)... sometimes i post some crazy things here
 
 --- Contact me, use -->  itzvicttor13@gmail.com ---
 
