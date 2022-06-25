@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @alphachief13
-- 👀 I’m interested in web programs and desktop programs 
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Programmer Community
-- 📫 How to reach me --> itzvicttor13@gmail.com
+Hi!! :D
+I'm Alphachief13... sometimes i post some crazy things here
 
-<!---
-thx for read this...
---->
+-------------------------------------------------------
+I know --> Web, Desktop and some other program stuffs... 
+
+Main Languages --> Python and JavaScript
+
+Contact me, use -->  itzvicttor13@gmail.com
