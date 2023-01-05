@@ -1,20 +1,14 @@
 👋 Hi!! :D
-I'm Alphachief13 (Victor Cordeiro)... sometimes i post some crazy things here
+Olá, meu nome é Victor, estou sempre em constante evolução na área da programação, principalmente web!
 
---- Contact me, use -->  itzvicttor13@gmail.com ---
-
-
+--- Contact me, use -->  victormvcordeiro@gmail.com ---
 
 
-
-
-
-
---> some curious things below
+--> Algumas coisas sobre mim:
 
 
 ------------------------------------------------------------
-👌 I know --> Web, Desktop and some other program stuffs... 
-
-🤘 Main Languages --> Python and JavaScript 
+👌 Programo desde Agosto de 2021! (comecei com o python)
+👌 Possuo conhecimentos avançados de inglês 
+🤘 Linguagens principais: JavaScript & PhP 
 ------------------------------------------------------------
