@@ -10,5 +10,5 @@ Olá, meu nome é Victor, estou sempre em constante evolução na área da progr
 ------------------------------------------------------------
 👌 Programo desde Agosto de 2021! (comecei com o python)
 👌 Possuo conhecimentos avançados de inglês 
-🤘 Linguagens principais: JavaScript & PhP 
+🤘 Linguagem principal: JavaScript  
 ------------------------------------------------------------
