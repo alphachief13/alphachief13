@@ -1,20 +1,12 @@
-<h1>
-  Dev Web, graduando em C&T/Engenharia Da Computação
-  
-</h1>
-  
-<h1>
- Programando desde Agosto de 2021
-  
-</h1>
+<ul>
+  <li>Dev Web, graduando em C&T/Engenharia Da Computação</li>
+  <li>Programando desde Agosto de 2021</li>
+  <li>Sou main Javascript, mas curto outras linguagens também</li>
+  <li>Sei bastante de inglês</li>
+</ul>
 
-<h1>
-  Sou main Javascript, mas curto outras linguagens também
-</h1>
-
-<h1>
-  Sei bastante de inglês 
-</h1>
+<br>
+<br>
 
 <div>
 <a href="https://github.com/alphachief13">
