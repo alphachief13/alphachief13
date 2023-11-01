@@ -37,14 +37,8 @@
           
 </p>
           
-          
-          
+<br>
+<br>
                     
-          
-          
-          
-          
-          
-          
 <h2>--- Talk to me -->  victormvcordeiro@gmail.com ---</h2>
 
