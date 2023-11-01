@@ -18,7 +18,15 @@
 <br>
 
 <h2>Tecnologias Que Estou Aprendendo</h2>          
+<p>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="60" height="60"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg"  width="60" height="60"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width="60" height="60"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="60" height="60" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="60" height="60" />
           
+          
+</p>
           
           
           
