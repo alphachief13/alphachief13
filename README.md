@@ -1,6 +1,6 @@
-👋 Hi!! :D
-
-Olá, meu nome é Victor, estou sempre em constante evolução na área da programação, principalmente web!
-Programo desde Agosto de 2021, comecei com o python. Conheço bem o inglês. Minha linguagem principal é o Javascript
+--> Dev Web, graduando em C&T/Engenharia Da Computação
+--> Programo desde Agosto de 2021
+--> Sou main Javascript, mas curto outras linguagens tb
+--> Sei bastante de inglês 
 
 --- Talk to me -->  victormvcordeiro@gmail.com ---
