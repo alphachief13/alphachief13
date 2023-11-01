@@ -2,7 +2,7 @@
 
 <ul>
   <li>Dev Web, graduando em C&T/Engenharia Da Computação</li>
-  <li>Programando desde Agosto de 2021</li>
+  <li>Programando desde 2021</li>
   <li>Sou main Javascript, mas curto outras linguagens também</li>
   <li>Sei bastante de inglês</li>
 </ul>
