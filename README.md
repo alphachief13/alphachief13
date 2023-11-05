@@ -10,7 +10,7 @@
 <br>
 
 
-<h2>Tecnologias Que Já Conheço</h2>
+<h2>Tecnologias Que Utilizo</h2>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="80" height="80" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="80" height="80" /> 
