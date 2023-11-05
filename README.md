@@ -3,7 +3,6 @@
 <ul>
   <li>Dev Web, graduando em C&T/Engenharia Da Computação</li>
   <li>Programando desde 2021</li>
-  <li>Sou main Javascript, mas curto outras linguagens também</li>
   <li>Inglês intermediário/avançado</li>
 </ul>
 
@@ -22,7 +21,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="80" height="80" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="80" height="80" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="80" height="80" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width="80" height="80"/>
   
   
   
@@ -31,15 +29,6 @@
 
 <br>
 
-<h2>Tecnologias Que Estou Aprendendo</h2>          
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="80" height="80"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" width="80" height="80" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="80" height="80"/>        
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="80" height="80"/>
-</p>
-          
-<br>
 <br>
                     
 <h2>--- Talk to me -->  victormvcordeiro@gmail.com ---</h2>
