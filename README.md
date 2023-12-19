@@ -1,7 +1,8 @@
 <h1>Um Pouco Sobre Mim :D</h1>
 
 <ul>
-  <li>Dev Web, graduando em C&T/Engenharia Da Computação</li>
+  <li>Graduando em C&T/Engenharia Da Computação</li>
+  <li>Conhecimentos em Mobile com React Native, Web com React/Vue</li>
   <li>Programando desde 2021</li>
   <li>Inglês intermediário/avançado</li>
 </ul>
