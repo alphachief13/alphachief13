@@ -1,9 +1,10 @@
 <h1>Um Pouco Sobre Mim :D</h1>
 
 <ul>
-  <li>Graduando em C&T/Engenharia Da Computação</li>
-  <li>Conhecimentos em Mobile com React Native, Web com React/Vue</li>
-  <li>Programando desde 2021</li>
+  <li>Graduando em C&T->Engenharia Da Computação (UFRN)</li>
+  <li>Programo web e mobile com react/rn</li>
+  <li>Hobbie de criar jogos (e jogar tb)</li>
+  <li>Codando desde 2021</li>
   <li>Inglês intermediário/avançado</li>
 </ul>
 
