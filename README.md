@@ -2,7 +2,7 @@
 
 <ul>
   <li>Graduando em C&T->Engenharia Da Computação (UFRN)</li>
-  <li>Programo web e mobile, react & vue</li>
+  <li>Programador web: React, Django, Postgresql</li>
   <li>Hobbie de criar jogos (e jogar tb)</li>
   <li>Codando desde 2021</li>
   <li>Inglês intermediário/avançado</li>
