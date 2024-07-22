@@ -6,8 +6,7 @@
 
 <ul>
   <li>Graduando em C&T->Engenharia Da Computação (UFRN)</li>
-  <li>Programador web: React, Django, Postgresql</li>
-  <li>Hobbie de criar jogos (e jogar tb)</li>
+  <li>Programador web: Next/React & Django Rest Framework</li>
   <li>Codando desde 2021</li>
   <li>Inglês intermediário/avançado</li>
 </ul>
@@ -19,9 +18,9 @@
 <h2>Main Stack</h2>
 <p>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="80" height="80"/>        
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="80" height="80"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg"  width="80" height="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="90" height="90"/>        
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="90" height="90"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg"  width="90" height="90"/>
 
   <br>
   <br>
