@@ -1,14 +1,12 @@
-<h1>Um Pouco Sobre Mim :D</h1>
+<h1>About me :D</h1>
 
-<a href="https://victor-cordeiro-portfolio.vercel.app/" target="_blank">Meu Portfólio!</a>
 <br>
 <br>
 
 <ul>
-  <li>Graduando em C&T->Engenharia Da Computação (UFRN)</li>
-  <li>Desenvolvedor Web - Frontend & Backend</li>
-  <li>Codando desde 2021</li>
-  <li>Inglês intermediário/avançado</li>
+  <li>C&T Bachelor->Computer eng. (UFRN)</li>
+  <li>Web Development - Frontend & Mobile</li>
+  <li>Coding since 2021</li>
 </ul>
 
 <br>
