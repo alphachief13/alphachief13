@@ -5,7 +5,7 @@
 
 <ul>
   <li>C&T Bachelor->Computer eng. (UFRN)</li>
-  <li>Web Development - Frontend & Mobile</li>
+  <li>Web Development - Focused on Frontend</li>
   <li>Coding since 2021</li>
 </ul>
 
